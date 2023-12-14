@@ -1,0 +1,21 @@
+@use "../../common/variables" as var;
+
+
+  a {
+    color: aqua;
+    text-decoration: none;
+  }
+
+body{
+  margin: 0;
+}
+
+  .new {
+    height: 100vh;
+    background-image: url('./../../assets/images/jpg/image9.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    
+
+  }

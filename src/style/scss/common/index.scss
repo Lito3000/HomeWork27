@@ -1,0 +1,12 @@
+$bootstrap-icons-font-dir: "./../../../node_modules/bootstrap-icons/font/fonts";
+@import "./../../../../node_modules/bootstrap-icons/font/bootstrap-icons.scss";
+@import "./../../../../node_modules/bootstrap/scss/bootstrap";
+@import "fonts";
+@import "reset";
+@import "variables";
+@import "common";
+@import "animations";
+@import "extends";
+@import "mixins";
+
+
